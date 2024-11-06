@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px&display=swap');
 
 :root {
-    --main-blue: #827d77;
+    --main-blue: #6c6965;
     --shadow-blue: #d86262;
     --main-gray: #2a2934;
     --main-dark: #0a0000;
     --main-white: #ffffff;
     --secondary-blue: #FEE169;
     --highlight-yellow: #F78100;
-    --shadow-yellow: #e2cdb6;
+    --shadow-yellow: #eae0d5;
 }
 
 @keyframes pulse {
